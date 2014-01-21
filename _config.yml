@@ -105,8 +105,8 @@ disqus_short_name: isaacdontjelindellblog
 disqus_show_comment_count: false
 
 # Google Analytics
-google_analytics_tracking_id: UA-41820500-2
-
+#google_analytics_tracking_id: UA-41820500-2
+google_analytics_tracking_id: UA-41820500-1
 # Facebook Like
 facebook_like: false
 
