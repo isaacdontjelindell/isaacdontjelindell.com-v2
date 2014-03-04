@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "calendar"
+title: "Calendar"
 comments: false
 sharing: false
 footer: true
